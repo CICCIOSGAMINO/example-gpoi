@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPOI Example Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to GPOI Example Project</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="section">
+            <h2>Home Section</h2>
+            <p>This is a simple example project for the GPOI (Gestione Progetto e Organizzazione d'Impresa) course.</p>
+            <button id="interactive-btn" class="cta-button">Click Me!</button>
+            <p id="message" class="hidden">Hello! This demonstrates JavaScript interactivity.</p>
+        </section>
+
+        <section id="about" class="section">
+            <h2>About This Project</h2>
+            <div class="card">
+                <h3>Technologies Used</h3>
+                <ul>
+                    <li>HTML5 - Structure and semantic markup</li>
+                    <li>CSS3 - Styling and responsive design</li>
+                    <li>JavaScript - Interactive functionality</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h3>Features</h3>
+                <ul>
+                    <li>Responsive design</li>
+                    <li>Clean, modern styling</li>
+                    <li>Interactive elements</li>
+                    <li>Semantic HTML structure</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="contact" class="section">
+            <h2>Contact Information</h2>
+            <form id="contact-form" class="contact-form">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message-text">Message:</label>
+                    <textarea id="message-text" name="message" rows="4" required></textarea>
+                </div>
+                <button type="submit">Send Message</button>
+            </form>
+            <div id="form-response" class="hidden"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 GPOI Example Project. Educational use only.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
