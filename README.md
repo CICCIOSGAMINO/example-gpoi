@@ -1,5 +1,24 @@
-# example-gpoi
-Its a simple project as example for GPOI course
+GPOI - Projects 25/26
+=====================
+[TOC]
+
+v0.0.1 - 30/09/25
+
+TODO_Description
+TODO_Studio Fattibilità
+TODO_SWOT
+
+TODO_GANTT
+
+# 5_AINF
+
+Progetto XX
+
+Progetto XX
+
+Progetto XX
+
+Progetto XX
 
 # 5_BINF
 
