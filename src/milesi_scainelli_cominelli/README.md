@@ -1,3 +1,9 @@
+Cybersecurity in Valley
+=======================
+[TOC]
+
+v0.0.1 - 04/10/2025
+
 # Definire, Nome, Strategy, Organigramma
 TODO 
 
