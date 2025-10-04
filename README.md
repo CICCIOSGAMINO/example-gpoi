@@ -12,7 +12,8 @@ TODO_GANTT
 
 # 5_AINF
 
-Progetto XX
+Progetto Milesi, Scainelli, Cominelli
+TODO
 
 Progetto XX
 
