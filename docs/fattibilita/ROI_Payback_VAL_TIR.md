@@ -19,7 +19,7 @@ Per ogni euro investito, l'azienda ha guadagnato 2 euro (un ritorno del 200% sul
 
 
 # Payback Period
-Il tempo necessario affinché i flussi di cassa netti generati dal progetto ripaghino l'investimento iniziale. Indica la "velocità" di ritorno dell'investimento
+Il tempo necessario affinché i flussi di cassa netti generati dal progetto ripaghino l'investimento iniziale. Indica la "velocità" di ritorno dell'investimento.
 
 `Payback Period = Investimento Iniziale / Flusso di Cassa Annuale Netto`
 
@@ -29,18 +29,39 @@ Flusso di cassa netto annuale (ricavi - costi): **€ 25.000** all'anno
 **Payback Period = € 100.000 / € 25.000 = 4 anni**
 
 **Analisi più avanzata (Payback Period con flussi variabili):**
+Il problema della formula semplice (Investimento / Flusso Annuale) è che presuppone flussi di cassa costanti ogni anno. Nella realtà, i flussi di cassa sono quasi sempre variabili (il primo anno si guadagna meno, poi si cresce, ecc.). La tabella serve proprio a gestire questa situazione più realistica.
 
-    | Anno | Investimento | Flusso di Cassa Netto | Flusso di Cassa Cumulativo |
-    | :--- | :----------- | :-------------------- | :------------------------- |
-    |  0   |   €(100.000) |    € (100.000)        | € (100.000)                |
-    |  1   |   € 20.000   |    € (80.000)         | € (80.000)                 |
-    |  2   |   € 30.000   |    € (50.000)         | € (50.000)                 |
-    |  3   |   € 40.000   |    € (10.000)         | € (10.000)                 |
-    |  4   |   € 40.000   |    € 30.000           | € 30.000                   |
+Immaginiamo di aprire un nuovo negozio, investimento Iniziale (anno 0): € 100.000
+(Per "anno 0" si intende l'istante iniziale, quando escono i soldi)
 
-In questo caso, il progetto "ripaga" l'investimento tra il 3° e il 4° anno. Per essere precisi: `Payback = 3 anni + (€ 10.000 / € 40.000) = 3,25 anni` (o 3 anni e 3 mesi).
+Flussi di Cassa Netti Annuali (stime):
+- Anno 1: € 20.000
+- Anno 2: € 35.000
+- Anno 3: € 40.000
+- Anno 4: € 45.000
 
-Un payback più breve è generalmente preferibile perché riduce l'esposizione al rischio. Tuttavia, questo indicatore non considera i flussi di cassa *dopo* il periodo di payback.
+| Anno | Investimento / Flusso di Cassa | Flusso di Cassa Cumulativo | Spiegazione |
+| :--- | :--- | :--- | :--- |
+| **0** | **€ (100.000)** | **€ (100.000)** | Investimento iniziale |
+| **1** | € 20.000 | € (80.000) | -100.000 + 20.000 = **-80.000** |
+| **2** | € 35.000 | € (45.000) | -80.000 + 35.000 = **-45.000** |
+| **3** | € 40.000 | € (5.000) | -45.000 + 40.000 = **-5.000** |
+| **4** | € 45.000 | € 40.000 | -5.000 + 45.000 = **+40.000** |
+
+## Calcolo del Payback Period esatto:
+- Mancano € 5.000 all'inizio del 4° anno
+- Flusso anno 4: € 45.000
+- Frazione di anno: € 5.000 / € 45.000 = 0,11 anni
+- 0,11 × 12 mesi = 1,32 mesi (circa 1 mese e 10 giorni)
+
+`Payback Period = 3 anni + 1,32 mesi = 3 anni, 1 mese e 10 giorni`
+
+
+
+## Perché è importante questo calcolo?
+- Decisioni di Investimento: Un payback di 3,1 anni è molto più attraente di un payback di 3,9 anni. Ti aiuta a confrontare progetti diversi.
+- Gestione del Rischio: Un ritorno più veloce dell'investimento significa meno tempo in cui i tuoi soldi sono "a rischio" nel progetto.
+- Liquidità: Capire quando i flussi di cassa tornano positivi è fondamentale per la pianificazione della tesoreria aziendale.
 
 # VAL - Valore Attuale Netto (Net Present Value - NPV)
 Il valore attuale di tutti i flussi di cassa futuri (positivi e negativi) generati dal progetto, "attualizzati" al loro valore odierno. L'attualizzazione è necessaria perché un euro oggi vale più di un euro domani (a causa dell'inflazione e del costo-opportunità del capitale).
