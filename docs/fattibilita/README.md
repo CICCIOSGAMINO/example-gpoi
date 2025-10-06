@@ -134,14 +134,21 @@ Tabella SWOT:
 
 ## 5.3 Indicatori di Redditività
 **ROI (Return on Investment)**: [%] - [Calcolo: (Guadagno - Investimento)/Investimento]
+<br>
 **Payback Period**: [Numero di mesi/anni per rientrare dall'investimento]
-**VAL/NPV (Valore Attuale Netto)**: [Valore] TODO 
-**TIR/IRR (Tasso Interno di Rendimento)**: [%] TODO 
+<br>
+**VAL/NPV (Valore Attuale Netto)**: [Valore]
+<br>
+**TIR/IRR (Tasso Interno di Rendimento)**: [%]
+<br>
+
+[Compilare file del progetto come file ROI_Payback_VAL_TIR.md]
 
 <br>
 
 ## 5.4 Break-even Analysis
 **Punto di Pareggio**: [Descrizione del punto di pareggio]
+<br>
 **Volume di Vendite Necessario**: [Quantità di vendite necessarie per coprire i costi]
 
 <br><br>
@@ -150,13 +157,16 @@ Tabella SWOT:
 
 ## 6.1 Struttura Interna
 **Ruoli e Responsabilità**: [Elenco puntato dei principali ruoli e responsabilità]
-**Nuove figure professionali**: [Descrizione delle nuove figure professionali necessarie]
-**Formazione**: [Piani di formazione per il personale]
-
 <br>
+**Nuove figure professionali**: [Descrizione delle nuove figure professionali necessarie]
+<br>
+**Formazione**: [Piani di formazione per il personale]
+<br>
+
 
 ## 6.2 Struttura di Project Management
 **Responsabile di Progetto**: [Nome e ruolo]
+<br>
 **Team di Progetto**: [Elenco dei membri del team]
 **Metodologia di Gestione**: [Descrizione della metodologia di gestione del progetto (es. Agile, Waterfall)]
 **Strumenti di Gestione**: [Elenco degli strumenti di gestione del progetto (es. Jira, Trello)]
@@ -217,3 +227,19 @@ Alcuni allegati che possono essere utili per lo studio di fattibilità:
 - SWOT analysis (Strengths, Weaknesses, Opportunities, Threats)
 - Gantt (pianificazione temporale risorse e attività)
 - Analisi dei rischi
+
+
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER {
+        string name
+        string email
+        int customerId
+    }
+    ORDER {
+        int orderId
+        date orderDate
+    }
+```

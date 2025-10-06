@@ -2,20 +2,15 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v0.0.1 - 30/09/25
-
-TODO_Description
-TODO_Studio Fattibilità
-TODO_SWOT
-
-TODO_GANTT
+v0.1.0 - 06/10/25
 
 # 5_AINF
 
 Progetto Milesi, Scainelli, Cominelli
-TODO
+Scaia25/gpoiProject  (name??)
 
-Progetto XX
+Progetto Fanti, Marema, Franchina, Gusmini
+TemakiFrank/ProgettoTPS
 
 Progetto XX
 
@@ -30,7 +25,7 @@ Progetto Ginny
 ginnycuggi/progettoGPN
 
 Progetto Ferro
-ironn0/Qlassly
+ironn0/ChronoWorld
 
 Progetto Birolini
 stamino24/GPOI-project
@@ -71,18 +66,21 @@ Processo di brainstorming per la generazione di idee progettuali:
 - **Feedback del Team**: Interesse e motivazione del team, Collaborazione e sinergia
 - **Tempistiche**: Realizzabilità entro i tempi previsti, Pianificazione delle fasi di sviluppo 
 
-Idee selezionate:
+Idee FREE:
 
-- TODO
+- WebApp(AI) per la scelta di capi di abbigliamento in base alle tendenze attuali
+- WebApp(AI) per la creazione di itinerari di viaggio personalizzati
+- WebApp(AI) per la gestione del tempo (produttività personale, attività)
+
+- Consulenza Utilizzo / Calcola ad Alta capacità NVIDIA CUDA-X
+- NVIDIA Training Center (Idee) https://www.nvidia.com/en-us/training/
+- NVIDIA Developer (Idee) https://developer.nvidia.com/
+- NVIDIA and AI https://www.nvidia.com/it-it/about-nvidia/ai-for-good/
 
 # 2. Definizione del Progetto - Oct 2025
-Con la definizione del progetto il primo passo è lo studio di fattibilità, il materiale riguardante lo studio di fattibilità è contenuto nella cartella `docs/fattibilita/`.
+Con la definizione del progetto il primo passo è lo studio di fattibilità, il materiale riguardante lo studio di fattibilità è contenuto nella cartella `docs/fattibilita/`
+
+Scaricare il template `docs/fattibilita/README.md` e compilarlo
 
 # 3. Gestione del Codice Sorgente
-Il codice sorgente del progetto è gestito utilizzando Git e ospitato su GitHub. Le principali pratiche di gestione del codice includono:
-- **Branching**: Utilizzo di branch per lo sviluppo di nuove funzionalità, correzioni di bug, e versioni stabili.
-- **Commit**: Messaggi di commit chiari e descrittivi per tracciare le modifiche.
-- **Pull Requests**: Revisione del codice tramite pull requests prima della fusione nei branch principali.
-- **Versioning**: Utilizzo di tag per marcare le versioni rilasciate del progetto.
-- **Documentazione**: Mantenimento di una documentazione aggiornata nel repository, inclusi README e CHANGELOG.
-- **Issue Tracking**: Utilizzo del sistema di issue di GitHub per tracciare bug, richieste di funzionalità, e attività di sviluppo.
+Il codice sorgente del progetto è gestito utilizzando Git e ospitato su GitHub. La guida per l'utilizzo del versioning e delle pratiche di gestione del codice è disponibile in `docs/github/README.md`
