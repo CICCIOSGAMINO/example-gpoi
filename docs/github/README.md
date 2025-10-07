@@ -18,9 +18,19 @@ Esempi di comandi Git (CLI - Command Line Interface):
 # git installed??
 git --version
 
+# create a new repository
+git init
+git status
+
+touch index.html
+git status
+
 # Configurare le informazioni utente
 git config --global user.email "your_email@example.com"
 git config --global user.name "your_github_username"
+
+# list of configurations
+git config --list
 
 # Clonare il repository
 git clone <repository_url>
@@ -36,7 +46,14 @@ git add .
 # Commit changes
 git commit -m "Descrizione delle modifiche"
 
+# log of commits
+git log --oneline
+
 # Push changes to remote repository
 git push origin <branch_name>
 git push origin main
 ```
+
+# Microsoft docs
+Getting start intro
+https://youtu.be/9uGS1ak_FGg?si=mQ_wK7Fq7j2mZ38Y
