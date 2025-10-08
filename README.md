@@ -2,7 +2,7 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v0.1.0 - 06/10/25
+v0.1.1 - 08/10/25
 
 # 5_AINF
 
@@ -12,7 +12,8 @@ Scaia25/gpoiProject  (name??)
 Progetto Fanti, Marema, Franchina, Gusmini
 TemakiFrank/ProgettoTPS
 
-Progetto XX
+Progetto Bruno, Bugada
+Brunoskyyy/Progetto-tps
 
 Progetto XX
 

@@ -2,53 +2,91 @@ Studio di Fattibilità - [Nome Progetto]
 =======================================
 [TOC]
 
-v0.0.1 - 05/10/25
-**Redatto da:** [Nome e cognome/responsabile]
+v0.0.1 - 05/10/25 - [Nome e cognome/responsabile]
+
+<br>
 
 # Sommario Esecutivo
 
-**Descrizione sintetica del progetto**: [2-3 righe di sintesi]
-**Scopo principale dello studio**: [Motivazione dell'analisi]
-**Raccomandazione finale**: [Fattibile/NON Fattibile - con motivazione sintetica]
-**Investimento stimato**: [Intervallo di costo]
-**ROI atteso**: [Valore percentuale e temporale]
-**Rischi principali**: [Elenco puntato dei 3-5 rischi critici]
+### Descrizione sintetica del progetto
+[2-3 righe di sintesi]
+
+### Scopo principale dello studio
+[Motivazione dell'analisi]
+
+### Raccomandazione finale
+[Fattibile/NON Fattibile - con motivazione sintetica]
+
+### Investimento stimato
+[Intervallo di costo]
+
+### ROI atteso
+[Valore percentuale e temporale]
+
+### Rischi principali
+[Elenco puntato dei 3-5 rischi critici]
+
+<br>
 
 # 1. Introduzione
 
-**Scopo del documento**: [Descrizione degli obiettivi dello studio di fattibilità]
-**Contesto del progetto**: [Descrizione del contesto]
-**Stakeholder coinvolti**: [Elenco puntato degli stakeholder principali]
+### Scopo del documento
+[Descrizione degli obiettivi dello studio di fattibilità]
 
-<br><br>
+### Contesto del progetto
+[Descrizione del contesto]
+
+### Stakeholder coinvolti
+[Elenco puntato degli stakeholder principali]
+
+<br>
 
 # 2. Descrizione del Progetto
 
 ## 2.1 Obiettivi del Progetto
-**Obiettivi del progetto**: [Elenco puntato degli obiettivi principali]
-**Obiettivi secondari**: [Elenco puntato degli obiettivi secondari]
-**KPI di successo**: [Elenco puntato dei principali indicatori di performance]
+
+### Obiettivi del progetto
+[Elenco puntato degli obiettivi principali]
+
+### Obiettivi secondari
+[Elenco puntato degli obiettivi secondari]
+
+### KPI di successo
+[Elenco puntato dei principali indicatori di performance]
 
 <br>
 
 ## 2.2 Caratteristiche Principali
-**Funzionalità chiave**: [Elenco puntato delle funzionalità principali]
+### Funzionalità chiave
+[Elenco puntato delle funzionalità principali]
 
 <br>
 
 ## 2.3 Requisiti Fondamentali
-**Tecnici**: [Infrastrutture, software, hardware, specifiche tecniche]
-**Operativi**: [Processi coinvolti, risorse necessarie]
-**Normativi**: [Conformità richieste, regolamenti]
 
-<br><br>
+### Tecnici
+[Infrastrutture, software, hardware, specifiche tecniche]
+
+### Operativi
+[Processi coinvolti, risorse necessarie]
+
+### Normativi
+[Conformità richieste, regolamenti]
+
+<br>
 
 # 3. Analisi di Mercato
 
 ## 3.1 Analisi della Domanda
-**Clienti di riferimento**: [Descrizione del target di mercato]
-**Dimensione del mercato**: [Dati quantitativi e qualitativi]
-**Tendenze di mercato**: [Evoluzione del mercato, opportunità emergenti]
+
+### Clienti di riferimento
+[Descrizione del target di mercato]
+
+### Dimensione del mercato
+[Dati quantitativi e qualitativi]
+
+### Tendenze di mercato
+[Evoluzione del mercato, opportunità emergenti]
 
 <br>
 
@@ -73,10 +111,14 @@ Tabella SWOT:
 <br>
 
 ## 3.4 Valore per il Cliente
-**Proposta di Valore Unica (UVP)**: [Descrizione della UVP]
-**Benefici per i clienti**: [Elenco puntato dei principali benefici]
 
-<br><br>
+### Proposta di Valore Unica (UVP)
+[Descrizione della UVP]
+
+### Benefici per i clienti
+[Elenco puntato dei principali benefici]
+
+<br>
 
 # 4. Analisi Tecnica
 
@@ -86,23 +128,36 @@ Tabella SWOT:
 <br>
 
 ## 4.2 Requisiti Tecnici
-**Infrastruttura**: [Descrizione dell'infrastruttura necessaria]
-**Software**: [Descrizione del software necessario]
-**Hardware**: [Descrizione dell'hardware necessario]
-**Sicurezza**: [Misure di sicurezza previste]
-**Scalabilità**: [Piani per la scalabilità futura]
-**Manutenzione**: [Piani di manutenzione e supporto]
+
+### Infrastruttura
+[Descrizione dell'infrastruttura necessaria]
+### Software
+[Descrizione del software necessario]
+### Hardware
+[Descrizione dell'hardware necessario]
+### Sicurezza
+[Misure di sicurezza previste]
+### Scalabilità
+[Piani per la scalabilità futura]
+### Manutenzione
+[Piani di manutenzione e supporto]
 
 <br>
 
 ## 4.3 Fattibilità Tecnica
-**Tecnologie disponibili**: [Elenco delle tecnologie attualmente disponibili]
-**Competenze del team**: [Descrizione delle competenze tecniche del team]
-**Fornitori e partner**: [Elenco dei potenziali fornitori e partner]
-**Rischi tecnici**: [Elenco puntato dei principali rischi tecnici]
-**Prototipi e test**: [Descrizione di eventuali prototipi o test preliminari]
 
-<br><br>
+### Tecnologie disponibili
+[Elenco delle tecnologie attualmente disponibili]
+### Competenze del team
+[Descrizione delle competenze tecniche del team]
+### Fornitori e partner
+[Elenco dei potenziali fornitori e partner]
+### Rischi tecnici
+[Elenco puntato dei principali rischi tecnici]
+### Prototipi e test
+[Descrizione di eventuali prototipi o test preliminari]
+
+<br>
 
 # 5. Analisi Economica Finanziaria
 
@@ -133,45 +188,54 @@ Tabella SWOT:
 <br>
 
 ## 5.3 Indicatori di Redditività
-**ROI (Return on Investment)**: [%] - [Calcolo: (Guadagno - Investimento)/Investimento]
-<br>
-**Payback Period**: [Numero di mesi/anni per rientrare dall'investimento]
-<br>
-**VAL/NPV (Valore Attuale Netto)**: [Valore]
-<br>
-**TIR/IRR (Tasso Interno di Rendimento)**: [%]
-<br>
+
+### ROI (Return on Investment)
+[%] - [Calcolo: (Guadagno - Investimento)/Investimento]
+### Payback Period
+[Numero di mesi/anni per rientrare dall'investimento]
+### VAL/NPV (Valore Attuale Netto)
+[Valore]
+TIR/IRR (Tasso Interno di Rendimento)
+[%]
 
 [Compilare file del progetto come file ROI_Payback_VAL_TIR.md]
 
 <br>
 
 ## 5.4 Break-even Analysis
-**Punto di Pareggio**: [Descrizione del punto di pareggio]
-<br>
-**Volume di Vendite Necessario**: [Quantità di vendite necessarie per coprire i costi]
 
-<br><br>
+### Punto di Pareggio
+[Descrizione del punto di pareggio]
+### Volume di Vendite Necessario
+[Quantità di vendite necessarie per coprire i costi]
+
+<br>
 
 # 6. Analisi Organizzativa
 
 ## 6.1 Struttura Interna
-**Ruoli e Responsabilità**: [Elenco puntato dei principali ruoli e responsabilità]
-<br>
-**Nuove figure professionali**: [Descrizione delle nuove figure professionali necessarie]
-<br>
-**Formazione**: [Piani di formazione per il personale]
-<br>
 
+### Ruoli e Responsabilità
+[Elenco puntato dei principali ruoli e responsabilità]
+### Nuove figure professionali
+[Descrizione delle nuove figure professionali necessarie]
+### Formazione
+[Piani di formazione per il personale]
+
+<br>
 
 ## 6.2 Struttura di Project Management
-**Responsabile di Progetto**: [Nome e ruolo]
-<br>
-**Team di Progetto**: [Elenco dei membri del team]
-**Metodologia di Gestione**: [Descrizione della metodologia di gestione del progetto (es. Agile, Waterfall)]
-**Strumenti di Gestione**: [Elenco degli strumenti di gestione del progetto (es. Jira, Trello)]
 
-<br><br>
+### Responsabile di Progetto
+[Nome e ruolo]
+### Team di Progetto
+[Elenco dei membri del team]
+### Metodologia di Gestione
+[Descrizione della metodologia di gestione del progetto (es. Agile, Waterfall)]
+### Strumenti di Gestione
+[Elenco degli strumenti di gestione del progetto (es. Jira, Trello)]
+
+<br>
 
 # 7. Analisi dei Rischi
 
@@ -182,7 +246,7 @@ Tabella SWOT:
 | [Esempio]             | [Esempio]                 | [Valore]           |
 | [Esempio]             | [Esempio]                 | [Valore]
 
-<br><br>
+<br>
 
 # 8. Piano di Implementazione
 
@@ -196,12 +260,15 @@ Tabella SWOT:
 <br>
 
 ## 8.2 Tempistiche
-**Durata Totale del Progetto**: [Numero di mesi/anni]
-**Milestone Principali**: [Elenco puntato delle principali milestone con date previste]
+
+### Durata Totale del Progetto
+[Numero di mesi/anni]
+### Milestone Principali
+[Elenco puntato delle principali milestone con date previste]
 
 [Gantt - Diagramma di Gantt in allegati]
 
-<br><br>
+<br>
 
 # 9. Conclusioni e Raccomandazioni
 
@@ -216,7 +283,7 @@ Svantaggi/Sfide: [Elenco puntato]
 [NON FATTIBILE] - Se i rischi/costi sono troppo alti
 [FATTIBILE CON CONDIZIONI] - Se dipende da specifici fattori
 
-<br><br>
+<br>
 
 # X. Allegati (cartella docs/fattibilita/allegati)
 Alcuni allegati che possono essere utili per lo studio di fattibilità:
@@ -227,19 +294,3 @@ Alcuni allegati che possono essere utili per lo studio di fattibilità:
 - SWOT analysis (Strengths, Weaknesses, Opportunities, Threats)
 - Gantt (pianificazione temporale risorse e attività)
 - Analisi dei rischi
-
-
-```mermaid
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER {
-        string name
-        string email
-        int customerId
-    }
-    ORDER {
-        int orderId
-        date orderDate
-    }
-```
