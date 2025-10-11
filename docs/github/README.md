@@ -49,6 +49,32 @@ git commit -m "Descrizione delle modifiche"
 # log of commits
 git log --oneline
 
+# fix quick error in the same commit
+git commit --amend --no-edit
+
+# remove file from git tracking
+git rm <nome-file>
+
+# check if a file is tracked
+git checkout -- <nomo-file>
+
+# jump to a commit (all files / only index.html)
+git commit bd18ec1 .
+git commit bd18ec1 index.html 
+
+
+# ------------------------------- HEAD ops ------------------------------
+# restore the tracking of the file
+git reset HEAD <nome-file>
+
+# restore to the previous commit
+git reset --hard HEAD^
+
+# revert last changes
+git revert --no-edit HEAD
+
+# ------------------------------------------------------------------------
+
 # Push changes to remote repository
 git push origin <branch_name>
 git push origin main
