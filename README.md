@@ -15,7 +15,8 @@ TemakiFrank/ProgettoTPS
 Progetto Bruno, Bugada
 Brunoskyyy/Progetto-tps
 
-Progetto XX
+Progetto Zanibelli, Carrara, Kristof
+zanz07/Twyn
 
 # 5_BINF
 
@@ -25,8 +26,8 @@ tommyguerini07/progetto-GPOI-5INFB-Guerini-Bertasa-Mutti-Zecchini
 Progetto Ginny
 ginnycuggi/progettoGPN
 
-Progetto Ferro
-ironn0/ChronoWorld
+Progetto Ferro, Maroccu
+ironn0/Map_to_Geojson-Converter
 
 Progetto Birolini
 stamino24/GPOI-project
