@@ -79,10 +79,17 @@ Idee FREE:
 - NVIDIA Developer (Idee) https://developer.nvidia.com/
 - NVIDIA and AI https://www.nvidia.com/it-it/about-nvidia/ai-for-good/
 
-# 2. Definizione del Progetto - Oct 2025
+# 2. Oct - Definizione del Progetto
 Con la definizione del progetto il primo passo è lo studio di fattibilità, il materiale riguardante lo studio di fattibilità è contenuto nella cartella `docs/fattibilita/`
 
 Scaricare il template `docs/fattibilita/README.md` e compilarlo
 
-# 3. Gestione del Codice Sorgente
+# 3. Oct - Gestione del Codice Sorgente
 Il codice sorgente del progetto è gestito utilizzando Git e ospitato su GitHub. La guida per l'utilizzo del versioning e delle pratiche di gestione del codice è disponibile in `docs/github/README.md`
+
+# 4. Nov - Compilare almeno due requirements
+Compilare almeno due requirements a scelta ed inserire i form compilati all'interno della cartella
+
+docs/fattibilita/requirements
+
+Fare riferimento al file /docs/fattibilita/requirements.md per il task
