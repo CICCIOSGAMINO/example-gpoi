@@ -2,35 +2,62 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v0.1.1 - 08/10/25
+v1.0.3 - 05/11/25
+
+![Immagine Esempio](https://github.com/CICCIOSGAMINO/cicciosgamino.github.io/blob/master/images/exampleFour.gif)
 
 # 5_AINF
 
 Progetto Milesi, Scainelli, Cominelli
-Scaia25/gpoiProject  (name??)
+Scaia25/gpoiProject
+<br>Resp. Progetto: Milesi  /  Resp. Documentazione Milesi
+__________________________________________________________
 
 Progetto Fanti, Marema, Franchina, Gusmini
-TemakiFrank/ProgettoTPS
+<br>TemakiFrank/ProgettoTPS
+<br>Resp. Progetto: Franchina  /  Resp. Documentazione Fanti
+__________________________________________________________
 
 Progetto Bruno, Bugada
-Brunoskyyy/Progetto-tps
+<br>Brunoskyyy/Progetto-tps
+<br>Resp. Progetto: Bugada  /  Resp. Documentazione Bruno
+__________________________________________________________
 
 Progetto Zanibelli, Carrara, Kristof
-zanz07/Twyn
+<br>zanz07/Twyn
+<br>Resp. Progetto: Zanibelli  /  Resp. Documentazione Carrara
+__________________________________________________________
+
+Progetto Cannatà, Verzeroli, Gentilcore
+<br>CannaNico/YourWeek
+<br>Resp. Progetto: Cannatà  /  Resp. Documentazione Gentilcore
+_________________________________________________________
+
 
 # 5_BINF
 
 Progetto Guerini
-tommyguerini07/progetto-GPOI-5INFB-Guerini-Bertasa-Mutti-Zecchini
+<br>tommyguerini07/progetto-GPOI-5INFB-Guerini-Bertasa-Mutti-Zecchini
+<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+__________________________________________________________
 
 Progetto Ginny
-ginnycuggi/progettoGPN
+<br>ginnycuggi/progettoGPN
+<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+__________________________________________________________
+
 
 Progetto Ferro, Maroccu
-ironn0/Map_to_Geojson-Converter
+<br>ironn0/Map_to_Geojson-Converter
+<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+__________________________________________________________
+
 
 Progetto Birolini
-stamino24/GPOI-project
+<br>stamino24/GPOI-project
+<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+__________________________________________________________
+
 
 
 # Documenti / Files presenti nel Repository
@@ -85,7 +112,7 @@ Con la definizione del progetto il primo passo è lo studio di fattibilità, il 
 Scaricare il template `docs/fattibilita/README.md` e compilarlo
 
 # 3. Oct - Gestione del Codice Sorgente
-Il codice sorgente del progetto è gestito utilizzando Git e ospitato su GitHub. La guida per l'utilizzo del versioning e delle pratiche di gestione del codice è disponibile in `docs/github/README.md`
+Il codice sorgente del progetto è gestito utilizzando Git e ospitato su GitHub. La guida per l'utilizzo del versioning e delle pratiche di gestione del codice è disponibile in `docs/github/CHEATSHEET.md`
 
 # 4. Nov - Compilare almeno due requirements
 Compilare almeno due requirements a scelta ed inserire i form compilati all'interno della cartella
@@ -93,3 +120,6 @@ Compilare almeno due requirements a scelta ed inserire i form compilati all'inte
 docs/fattibilita/requirements
 
 Fare riferimento al file /docs/fattibilita/requirements.md per il task
+
+# 5. Nov - Creare la Github page del progetto
+Ogni progetto deve avere anche una Github Pages, in cui viene presentato il progetto e sono prosenti screenshots, immagini, video che riguardano il progetto. Ulteriori informazioni all'interno del file `docs/github/PAGES.md`
