@@ -2,9 +2,7 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.0.3 - 05/11/25
-
-![Immagine Esempio](https://github.com/CICCIOSGAMINO/cicciosgamino.github.io/blob/master/images/exampleFour.gif)
+v1.0.5 - 10/11/25
 
 # 5_AINF
 
@@ -38,24 +36,24 @@ _________________________________________________________
 
 Progetto Guerini
 <br>tommyguerini07/progetto-GPOI-5INFB-Guerini-Bertasa-Mutti-Zecchini
-<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+<br>Resp. Progetto: Guerini  /  Resp. Documentazione Zecchini
 __________________________________________________________
 
 Progetto Ginny
 <br>ginnycuggi/progettoGPN
-<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+<br>Resp. Progetto: Ginny  /  Resp. Documentazione Noemi
 __________________________________________________________
 
 
-Progetto Ferro, Maroccu
+Progetto Ferro, Marrocu, Cortinovis
 <br>ironn0/Map_to_Geojson-Converter
-<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+<br>Resp. Progetto: Ferro  /  Resp. Documentazione Cortinovis
 __________________________________________________________
 
 
-Progetto Birolini
+Progetto Birolini, Codoni, Simon
 <br>stamino24/GPOI-project
-<br>Resp. Progetto: TODO  /  Resp. Documentazione TODO
+<br>Resp. Progetto: Stefano Birolini  /  Resp. Documentazione Aurora Birolini
 __________________________________________________________
 
 
@@ -68,6 +66,26 @@ __________________________________________________________
 - `docs/fattibilità` - Studio di fattibilità del progetto (README.md, excel, SWOT)
 - `src/` - Cartella contenente il codice sorgente del progetto
 - `src/tests/` - Cartella contenente i test per il progetto
+
+**Folders structure**
+
+```bash
+rogetto-aziendale/
+   ├── docs/           # Documentazione
+         ├── fattibilita/
+                 ├── requirements/
+                        ├── template_requirements_1.md  # template 
+                        └── template_requirements_2.md  # template 
+                 ├── README.md  # studio di fattibilita
+                 └── template_gantt.xlsx
+                 
+            
+   ├── src/            # Codice sorgente
+   ├── README.md       # Descrizione progetto (template dato)
+   ├── CHANGELOG.md    # Tracking delle versioni
+   └── LICENSE         # Licenza scelta per il codice
+```
+
 
 # 1. Fase Brainstorming - Sep 2025
 
@@ -121,5 +139,13 @@ docs/fattibilita/requirements
 
 Fare riferimento al file /docs/fattibilita/requirements.md per il task
 
-# 5. Nov - Creare la Github page del progetto
-Ogni progetto deve avere anche una Github Pages, in cui viene presentato il progetto e sono prosenti screenshots, immagini, video che riguardano il progetto. Ulteriori informazioni all'interno del file `docs/github/PAGES.md`
+# 5. Nov - Github
+Ogni componente del gruppo deve essere in grado di gestire il repository del progetto e conoscere di Git e Github i seguenti: 
+
+- Comandi base di Git (status, add, commit, push e pull)
+- Gestione dei branch e navigare tra i diversi commit
+- Creare/aggiornare file README.md ed ogni file Markdown
+- Creare/Aggiornare la Github Pages dell'utente in questione (screenshots, immagini, video ...)
+- Creare/Gestire Issues e Discussions
+
+Ulteriori informazioni all'interno del file `docs/github/GITHUB_TASKS.md`

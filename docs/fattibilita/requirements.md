@@ -85,4 +85,16 @@ sono ulteriormente contribuire fornendo indicazioni su appositi forum che vengon
 contestualmente all9inizio dell9attività di sviluppo: gli utenti segnalano spontaneamente migliora-
 menti desiderabili e condividono o meno i suggerimenti proposti dagli altri utenti.
 
-# 
+# Analisi della Concorrenza
+Tra le attività svolte nella fase di esplorazione dei requisiti è di fondamentale importanza il confronto con prodotti concorrenti simili già presenti sul mercato per attingere dalle best practice qualche indicazione preziosa, nonché compararne i prezzi, i punti 
+di forza e riconoscere i punti di debolezza.
+Questa operazione è particolarmente difficile da effet-
+tuarsi nelle situazioni di sviluppo ad hoc altamente spe-
+cializzato, dove è difficile, se non impossibile, trova-
+re altre realizzazioni già implementate: in generale, 
+però, parte del sistema da sviluppare lo si può tro-
+vare già realizzato, e quindi da queste realizzazioni si possono trarre preziose indicazioni.
+La ricerca di soluzioni già esistenti o simili deve essere fatta all9inizio del progetto, non appena 
+sono definiti gli obiettivi essenziali; è importante anche sottoporre le soluzioni adottate da terzi 
+agli stakeholder in modo che possano valutarle e commentarle per verificare la loro possibile in-
+tegrazione nel nuovo sistema e la loro applicabilità nel contesto corrente.

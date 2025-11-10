@@ -6,10 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.3] - 05-11-2025
+## [1.0.5] - 10-11-2025
 
 ### Addes
-	- github pages
+	- github GITHUB_TASKS.md
+	- 4 Compilare almeno due requirements (Audit task)
+
+### Changed
+	- README.md
 
 ## [1.0.0] - 03-11-2025
 
