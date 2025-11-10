@@ -19,6 +19,16 @@ La tabella seguente riporta le tecniche principali che possono essere utilizzate
 | **Interviste individuali** | Esplorare determinati aspetti del problema e determinati punti di vista. | L’intervistatore può controllare il corso dell’intervista, orientandola verso temi sui quali l’intervistato può fornire contributi utili. | Richiedono molto tempo. Gli intervistati potrebbero evitare di esprimersi con franchezza su aspetti delicati. |
 | **Focus group** | Mettere a fuoco un determinato argomento su cui possono esserci diversi punti di vista. | Fanno emergere le aree di consenso e di conflitto. Possono far emergere soluzioni condivise dal gruppo. | La conduzione richiede esperienza. Possono emergere figure dominanti che monopolizzano la discussione. |
 
+You need to insert two files with the study of at least two requirements:
+
+- Osservazioni sul campo
+- Suggerimenti spontanei utenti
+- Questionari
+- Analisi della concorrenza e delle best practice
+- Scenari e casi d'uso
+- Interviste individuali
+- Focus gruppo
+
 # Interviste individuali
 La migliore fonte per reperire i requisiti è quella delle interviste individuali. L'indagine inizia con l'intervista al cliente/committente che è il maggior referente del progetto (anche perché "è lui che paga") e quindi ha chiari gli obiettivi che devono essere perseguiti e i tempi di 
 realizzazione del sistema.

@@ -2,7 +2,7 @@ Studio di Fattibilità - [Nome Progetto]
 =======================================
 [TOC]
 
-v0.0.1 - 05/10/25 - [Nome e cognome/responsabile]
+v1.0.0 - 10/11/25 - [Nome e cognome/responsabile]
 
 <br>
 
@@ -38,6 +38,9 @@ v0.0.1 - 05/10/25 - [Nome e cognome/responsabile]
 
 ### Stakeholder coinvolti
 [Elenco puntato degli stakeholder principali]
+
+### Attività Economica
+[Descrivi il tipo di atttività economica vista a lezione]
 
 <br>
 

@@ -2,13 +2,18 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.0.5 - 10/11/25
+v1.1.0 - 10/11/25
 
 # 5_AINF
 
-Progetto Milesi, Scainelli, Cominelli
+Progetto Milesi, Ing. Canali
 Scaia25/gpoiProject
 <br>Resp. Progetto: Milesi  /  Resp. Documentazione Milesi
+__________________________________________________________
+
+Progetto Scainelli, Cominelli
+Scaia25/sharedAgenda
+<br>Resp. Progetto: Scainelli  /  Resp. Documentazione Cominelli
 __________________________________________________________
 
 Progetto Fanti, Marema, Franchina, Gusmini
@@ -29,6 +34,11 @@ __________________________________________________________
 Progetto Cannatà, Verzeroli, Gentilcore
 <br>CannaNico/YourWeek
 <br>Resp. Progetto: Cannatà  /  Resp. Documentazione Gentilcore
+_________________________________________________________
+
+Progetto Leoni, Bastioni, Ravasio
+<br>Rava-X/Progetto_Gestione
+<br>Resp. Progetto: Ravasio  /  Resp. Documentazione Bastioni
 _________________________________________________________
 
 
@@ -56,6 +66,8 @@ Progetto Birolini, Codoni, Simon
 <br>Resp. Progetto: Stefano Birolini  /  Resp. Documentazione Aurora Birolini
 __________________________________________________________
 
+# (UPDATED) - TO_READ
+10-11-2025  Aggiunta in docs/fattibilita/README.md "Attività Economica"
 
 
 # Documenti / Files presenti nel Repository
