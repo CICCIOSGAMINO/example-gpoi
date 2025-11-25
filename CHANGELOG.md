@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 25-11-2025
+
+### Add
+	- docs/economy_finance/impresa_azienda.md
+	- Section 6 in README.md
+
 ## [1.1.0] - 10-11-2025
 
 ### Add

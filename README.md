@@ -2,7 +2,7 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.1.1 - 11/11/25
+v1.2.0 - 25/11/25
 
 # 5_AINF
 
@@ -82,7 +82,7 @@ __________________________________________________________
 **Folders structure**
 
 ```bash
-rogetto-aziendale/
+progetto-aziendale/
    ├── docs/           # Documentazione
          ├── fattibilita/
                  ├── requirements/
@@ -90,7 +90,8 @@ rogetto-aziendale/
                         └── template_requirements_2.md  # template 
                  ├── README.md  # studio di fattibilita
                  └── template_gantt.xlsx
-                 
+         ├── github/    # cheatsheet di github
+         └── economy_finance/    # riassunti parte economico/finanziaria
             
    ├── src/            # Codice sorgente
    ├── README.md       # Descrizione progetto (template dato)
@@ -149,7 +150,7 @@ Compilare almeno due requirements a scelta ed inserire i form compilati all'inte
 
 docs/fattibilita/requirements
 
-Fare riferimento al file /docs/fattibilita/requirements.md per il task
+Fare riferimento al file /docs/fattibilita/requirements.md per il task! Fortemente consigliato utilizzare come uno dei requirements il questionario, utilizzando [Google Form](https://docs.google.com/forms/u/0/)
 
 # 5. Nov - Github
 Ogni componente del gruppo deve essere in grado di gestire il repository del progetto e conoscere di Git e Github i seguenti: 
@@ -161,3 +162,8 @@ Ogni componente del gruppo deve essere in grado di gestire il repository del pro
 - Creare/Gestire Issues e Discussions
 
 Ulteriori informazioni all'interno del file `docs/github/GITHUB_TASKS.md`
+
+# 6. Dec - Studio Documentazione Economico/Finanziaria
+All'interno della cartella `docs/economy_finance/` sono presenti diversi riassunti riguardanti la parte economico/finanziaria del progetto aziendale. Ogni componente del gruppo deve studiare e comprendere il materiale presente in questa cartella.
+
+Assicurarsi che tutto il materiale sia presente all'interno del repository e che sia aggiornato all'ultima versione disponibile.
