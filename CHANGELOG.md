@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.0] - 12-12-2025
+
+### Add
+	- Break even point in docs/economy_finance/break_even_point.md
+
 ## [1.2.0] - 25-11-2025
 
 ### Add
@@ -20,7 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.5] - 10-11-2025
 
-### Addes
+### Add
 	- github GITHUB_TASKS.md
 	- 4 Compilare almeno due requirements (Audit task)
 
@@ -29,19 +34,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 03-11-2025
 
-### Added
+### Add
 	- docs/requirements
 	- task requirements
 
 ## [0.1.0] - 06-10-2025
 
-### Added
+### Add
 	- New Version v0.1.0 /docs
 
 	
 ## [0.0.1] - 05-08-2025
 
-### Added
+### Add
 	- Init the repo
 
 ### Changed

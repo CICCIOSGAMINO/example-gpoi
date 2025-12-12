@@ -2,7 +2,7 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.2.0 - 25/11/25
+v1.3.0 - 12/12/25
 
 # 5_AINF
 
@@ -18,7 +18,7 @@ __________________________________________________________
 
 Progetto Fanti, Marema, Franchina, Gusmini
 <br>TemakiFrank/ProgettoTPS
-<br>Resp. Progetto: Franchina  /  Resp. Documentazione Fanti
+<br>Resp. Progetto: Fanti /  Resp. Documentazione Franchina
 __________________________________________________________
 
 Progetto Bruno, Bugada
@@ -167,3 +167,23 @@ Ulteriori informazioni all'interno del file `docs/github/GITHUB_TASKS.md`
 All'interno della cartella `docs/economy_finance/` sono presenti diversi riassunti riguardanti la parte economico/finanziaria del progetto aziendale. Ogni componente del gruppo deve studiare e comprendere il materiale presente in questa cartella.
 
 Assicurarsi che tutto il materiale sia presente all'interno del repository e che sia aggiornato all'ultima versione disponibile.
+
+# 7. Dec - BEP (Break Even Point)
+Calcolare il BEP (Break Even Point) del progetto aziendale utilizzando i dati raccolti durante lo studio di fattibilità e la documentazione economico/finanziaria. Il calcolo del BEP deve essere documentato e inserito all'interno della cartella `docs/fattibilita/` del repository del progetto. 
+
+Esempio/Template all'interno della cartella `docs/economy_finance/break_even_point.md`
+
+# 8. Dec - Presentazione Finale
+Preparare una presentazione finale del progetto aziendale che includa i seguenti punti chiave:
+
+- Descrizione del progetto
+- Studio di fattibilità
+- Analisi economico/finanziaria
+- Beta version del prodotto/servizio
+- Prossimi passi e roadmap futura
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# Fine Trimestre
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
