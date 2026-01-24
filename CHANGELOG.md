@@ -6,6 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.5.0] - 24-01-2026
+
+### Add
+	- Section 2 in README.md per le Issues/Funzionalità da chiudere
+	
+
+## [1.4.0] - 19-01-2026
+
+### Add
+	- Section 1 in README.md
+	- docs/project_management
+
 ## [1.3.0] - 12-12-2025
 
 ### Add

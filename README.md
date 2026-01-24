@@ -2,43 +2,43 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.3.0 - 12/12/25
+v1.5.0 - 24/01/26
 
 # 5_AINF
 
 Progetto Milesi, Ing. Canali
-Scaia25/gpoiProject
-<br>Resp. Progetto: Milesi  /  Resp. Documentazione Milesi
+FILOMILE/cybermura-gpoi
+<br>Project Manager: Milesi  /  Resp. Documentazione Milesi
 __________________________________________________________
 
 Progetto Scainelli, Cominelli
-Scaia25/sharedAgenda
-<br>Resp. Progetto: Scainelli  /  Resp. Documentazione Cominelli
+Scaia25/psyPlatform
+<br>Project Manager: Scainelli  /  Resp. Documentazione Cominelli
 __________________________________________________________
 
 Progetto Fanti, Marema, Franchina, Gusmini
 <br>TemakiFrank/ProgettoTPS
-<br>Resp. Progetto: Fanti /  Resp. Documentazione Franchina
+<br>Project Manager: Fanti /  Resp. Documentazione Franchina
 __________________________________________________________
 
 Progetto Bruno, Bugada
 <br>Brunoskyyy/Progetto-tps
-<br>Resp. Progetto: Bugada  /  Resp. Documentazione Bruno
+<br>Project Manager: Bugada  /  Resp. Documentazione Bruno
 __________________________________________________________
 
 Progetto Zanibelli, Carrara, Kristof
-<br>zanz07/Twyn
-<br>Resp. Progetto: Zanibelli  /  Resp. Documentazione Carrara
+<br>zanz07/Progetto-gestione
+<br>Project Manager: Zanibelli  /  Resp. Documentazione Carrara
 __________________________________________________________
 
 Progetto Cannatà, Verzeroli, Gentilcore
 <br>CannaNico/YourWeek
-<br>Resp. Progetto: Cannatà  /  Resp. Documentazione Gentilcore
+<br>Project Manager: Cannatà  /  Resp. Documentazione Gentilcore
 _________________________________________________________
 
 Progetto Leoni, Bastioni, Ravasio
 <br>Rava-X/Progetto_Gestione
-<br>Resp. Progetto: Ravasio  /  Resp. Documentazione Bastioni
+<br>Project Manager: Ravasio  /  Resp. Documentazione Bastioni
 _________________________________________________________
 
 
@@ -46,28 +46,29 @@ _________________________________________________________
 
 Progetto Guerini
 <br>tommyguerini07/progetto-GPOI-5INFB-Guerini-Bertasa-Mutti-Zecchini
-<br>Resp. Progetto: Guerini  /  Resp. Documentazione Zecchini
+<br>Project Manager: Guerini  /  Resp. Documentazione Zecchini
 __________________________________________________________
 
 Progetto Ginny
 <br>ginnycuggi/progettoGPN
-<br>Resp. Progetto: Ginny  /  Resp. Documentazione Noemi
+<br>Project Manager: Ginny  /  Resp. Documentazione Noemi
 __________________________________________________________
 
 
 Progetto Ferro, Marrocu, Cortinovis
 <br>ironn0/Map_to_Geojson-Converter
-<br>Resp. Progetto: Ferro  /  Resp. Documentazione Cortinovis
+<br>Project Manager: Ferro  /  Resp. Documentazione Cortinovis
 __________________________________________________________
 
 
 Progetto Birolini, Codoni, Simon
 <br>stamino24/GPOI-project
-<br>Resp. Progetto: Stefano Birolini  /  Resp. Documentazione Aurora Birolini
+<br>Project Manager: Stefano Birolini  /  Resp. Documentazione Aurora Birolini
 __________________________________________________________
 
 # (UPDATED) - TO_READ
 10-11-2025  Aggiunta in docs/fattibilita/README.md "Attività Economica"
+19-01-2026  Aggiunta in README.md "Strutture Organizzative di Progetto" e docs/project_management
 
 
 # Documenti / Files presenti nel Repository
@@ -76,6 +77,9 @@ __________________________________________________________
 - `CHANGELOG.md` - Registro delle modifiche / versioni del progetto
 - `docs/` - Cartella contenente documentazione aggiuntiva, specifiche tecniche, e guide
 - `docs/fattibilità` - Studio di fattibilità del progetto (README.md, excel, SWOT)
+- `docs/github/` - Cheatsheet e guide per l'utilizzo di Git e GitHub
+- `docs/economy_finance/` - Riassunti e documenti relativi alla parte economico/finanziaria del progetto
+- `docs/project_management/` - Documenti e riassunti sul Project Management
 - `src/` - Cartella contenente il codice sorgente del progetto
 - `src/tests/` - Cartella contenente i test per il progetto
 
@@ -92,13 +96,13 @@ progetto-aziendale/
                  └── template_gantt.xlsx
          ├── github/    # cheatsheet di github
          └── economy_finance/    # riassunti parte economico/finanziaria
+         └── project_management/    # documenti e riassunti sul project management
             
    ├── src/            # Codice sorgente
    ├── README.md       # Descrizione progetto (template dato)
    ├── CHANGELOG.md    # Tracking delle versioni
    └── LICENSE         # Licenza scelta per il codice
 ```
-
 
 # 1. Fase Brainstorming - Sep 2025
 
@@ -185,5 +189,11 @@ Preparare una presentazione finale del progetto aziendale che includa i seguenti
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 # Fine Trimestre
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# 1. Jen - Project Management
+Studiare ed approfondire il Project Management, documenti nella cartella docs/project_management (riassunti). 
+
+# 2. Feb - Chiudere le Issues Aperte
+Assicurarsi che tutte le issues aperte nel repository del progetto siano state risolte e chiuse. Verificare che ogni issue abbia una descrizione chiara del problema e della soluzione adottata. Le nuove funzionalità e la documentazione con le fasi di lavoro passate e del mese di Gennaio/Febbraio devono essere precise e aggiornate nel Gantt di progetto.
 
 
