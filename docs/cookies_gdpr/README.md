@@ -2,7 +2,13 @@ Cookies & GDPR
 ==============
 [TOC]
 
-v0.0.5 - February 2026
+v0.0.7 - February 2026
+
+EU Cookies, the GDPR and the ePrivacy Directive
+https://gdpr.eu/cookies/
+
+Data Protection under GDPR
+https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_en.htm
 
 Intro Cookies
 https://web.dev/articles/understanding-cookies
