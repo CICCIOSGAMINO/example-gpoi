@@ -2,7 +2,7 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.5.0 - 24/01/26
+v1.7.0 - 14/02/26
 
 # 5_AINF
 
@@ -195,5 +195,8 @@ Studiare ed approfondire il Project Management, documenti nella cartella docs/pr
 
 # 2. Feb - Chiudere le Issues Aperte
 Assicurarsi che tutte le issues aperte nel repository del progetto siano state risolte e chiuse. Verificare che ogni issue abbia una descrizione chiara del problema e della soluzione adottata. Le nuove funzionalità e la documentazione con le fasi di lavoro passate e del mese di Gennaio/Febbraio devono essere precise e aggiornate nel Gantt di progetto.
+
+# 3. Feb - Cookies e GDPR
+Approfondire le tematiche riguardanti i Cookies (ePrivacy Directive) e il GDPR (General Data Protection Regulation). Implementare la gestione dei Cookies all'interno della WebApp, assicurandosi di rispettare le normative vigenti in materia di privacy e protezione dei dati personali. Documentare l'implementazione e le considerazioni legali all'interno della cartella `docs/cookies_gdpr/` del repository del progetto.
 
 

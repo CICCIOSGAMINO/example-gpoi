@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.7.0] - 14-02-2026
+
+### Add
+	- docs/cookies_gdpr  Init the Cookies and GDPR documentation
+	- README.md
+	- Section 7 in README.md
+
 ## [1.5.0] - 24-01-2026
 
 ### Add

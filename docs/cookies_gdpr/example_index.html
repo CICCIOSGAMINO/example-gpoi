@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Lite</title>
+    <meta name="description" content="Lite WebApp Template">
+
+    <meta name="author" content="@cicciosgamino"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="currentColor">
+    <meta name="color-scheme" content="light dark">
+
+    <!-- TODO Fallback ico and svg favicon 
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml"> -->
+
+    <style>
+
+      :root {
+        --text1: hsl(200, 65%, 15%);
+        --surface1: whitesmoke;
+      }
+
+      /* reset browser defaults */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      /* *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      } */
+
+      html {
+        color-scheme: light;
+
+        /* block-size: 100%; */
+        min-block-size: 100vh;
+
+        /* base rem unit (10px) */
+        font-size: 62.5%;
+
+        background-color: var(--surface1);
+        color: var(--text1);
+      }
+
+      html[data-theme="dark"] {
+        color-scheme: dark;
+      }
+
+      body  {
+        min-block-size: 100vh;
+        font-family: system-ui, sans-serif;
+        font-size: 1.9rem;
+        /* WCAG no less than 1.5 dyslexic */
+        line-height: 1.5;
+
+        display: grid;
+        /* justify-items + align-items */
+        place-items: center;
+        gap: 5rem;
+      }
+
+      main {
+        background-color: whitesmoke;
+      }
+
+      .cookie-banner {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: #1a1a1a;
+        color: white;
+        padding: 15px;
+        z-index: 9999;
+        border-top: 2px solid #333;
+      }
+      .cookie-content {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .cookie-buttons {
+        display: flex;
+        gap: 10px;
+        margin-left: 20px;
+      }
+      .btn-minimal, .btn-primary {
+        padding: 8px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      .btn-minimal {
+        background: #555;
+        color: white;
+      }
+      .btn-primary {
+        background: #007bff;
+        color: white;
+      }
+      
+      @media only screen and (min-width: 767px) {
+
+      }
+      
+    </style>
+    
+  </head>
+
+  <body>
+
+    <h1>Cookies Banner</h1>
+
+    <!-- Add this to your index.html -->
+    <div id="cookie-banner" class="cookie-banner" style="display: none;">
+      <div class="cookie-content">
+        <p>We use cookies for essential functions and analytics. 
+          <a href="/privacy" target="_blank">Privacy Policy</a>
+        </p>
+        <div class="cookie-buttons">
+          <button id="accept-essential" class="btn-minimal">Essential Only</button>
+          <button id="accept-all" class="btn-primary">Accept All</button>
+        </div>
+      </div>
+    </div>
+
+    <noscript>
+      Please enable JavaScript to view this website.
+    </noscript>
+
+    <!-- Import Js Module -->
+    <script type="module">
+
+      // Cookie manager
+      const CookieManager = {
+
+        init() {
+          // Check if consent already given
+          if (!this.getConsent()) {
+            this.showBanner()
+          }
+          this.setupListeners()
+          this.applyConsent(this.getConsent())
+        },
+        
+        showBanner() {
+          document.getElementById('cookie-banner').style.display = 'block'
+        },
+        
+        hideBanner() {
+          document.getElementById('cookie-banner').style.display = 'none'
+        },
+        
+        setupListeners() {
+          document.getElementById('accept-essential').addEventListener('click', () => {
+            this.saveConsent({ essential: true, analytics: false, marketing: false })
+            this.hideBanner()
+          });
+          
+          document.getElementById('accept-all').addEventListener('click', () => {
+            this.saveConsent({ essential: true, analytics: true, marketing: false })
+            this.hideBanner()
+            this.enableAnalytics() // Enable Firebase Analytics if needed
+          });
+        },
+        
+        saveConsent(consent) {
+          localStorage.setItem('cookieConsent', JSON.stringify({
+            ...consent,
+            timestamp: new Date().toISOString()
+          }))
+        },
+        
+        getConsent() {
+          const saved = localStorage.getItem('cookieConsent')
+          return saved ? JSON.parse(saved) : null
+        },
+        
+        applyConsent(consent) {
+          if (!consent) return
+          
+          // Block analytics if not consented
+          if (!consent.analytics) {
+            this.blockAnalytics()
+          }
+        },
+        
+        blockAnalytics() {
+          // Disable Firebase Analytics
+          if (typeof window !== 'undefined') {
+            window['ga-disable-UA-XXXXX-Y'] = true // Your GA ID
+          }
+        },
+        
+        enableAnalytics() {
+          // Initialize Firebase Analytics only if consented
+          if (typeof firebase !== 'undefined' && firebase.analytics) {
+            firebase.analytics()
+          }
+        }
+      };
+
+      window.addEventListener('DOMContentLoaded', (e) => {
+        console.log('@DOM >> Ready')
+
+        CookieManager.init()
+      })
+
+    </script>
+
+  </body>
+</html>
