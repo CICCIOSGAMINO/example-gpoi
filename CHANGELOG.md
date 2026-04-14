@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.8.0] - 14-04-2026
+
+### Add
+	- docs/eu Documentation regarding EU history and treaties, with a focus on the most recent ones and the GDPR and CRA
+	- docs/us Brief summary regarding the US laws about digital technology  
+	- docs/cn Brief summary regarding the Chinese laws about digital technology
+
+### Changed
+	- README.md Updated the README with the new EU section and the new projects regarding the CRA
+
 ## [1.7.1] - 14-02-2026
 
 ### Add

@@ -2,9 +2,13 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.7.1 - 14/02/26
+v1.8.0 - 31/03/26
 
 # 5_AINF
+
+Progetto qpe Fanti
+https://github.com/MANZINOO/qpe
+<br>Project Manager: Fanti  /  Resp. Documentazione
 
 Progetto Milesi, Ing. Canali
 FILOMILE/cybermura-gpoi
@@ -17,7 +21,7 @@ Scaia25/psyPlatform
 __________________________________________________________
 
 Progetto Fanti, Marema, Franchina, Gusmini
-<br>TemakiFrank/ProgettoTPS
+<br>TemakiFrank/Seescape
 <br>Project Manager: Fanti /  Resp. Documentazione Franchina
 __________________________________________________________
 
@@ -67,9 +71,9 @@ Progetto Birolini, Codoni, Simon
 __________________________________________________________
 
 # (UPDATED) - TO_READ
-10-11-2025  Aggiunta in docs/fattibilita/README.md "Attività Economica"
+31-03-2026 Aggiunta EU, CRA, GDPR, fix Cookie Policy section e projects in README.md
 19-01-2026  Aggiunta in README.md "Strutture Organizzative di Progetto" e docs/project_management
-
+10-11-2025  Aggiunta in docs/fattibilita/README.md "Attività Economica"
 
 # Documenti / Files presenti nel Repository
 - `README.md` - Descrizione del progetto, pagina principale Github
@@ -80,6 +84,9 @@ __________________________________________________________
 - `docs/github/` - Cheatsheet e guide per l'utilizzo di Git e GitHub
 - `docs/economy_finance/` - Riassunti e documenti relativi alla parte economico/finanziaria del progetto
 - `docs/project_management/` - Documenti e riassunti sul Project Management
+- `docs/eu/cookies/` - Documentazione riguardante la gestione dei Cookies e Privacy Policy
+- `docs/eu/gdpr/` - Documenti riguardanti il GDPR (General Data Protection Regulation)
+- `docs/eu/cra/` - Cartella contenente il materiale riguardante il Cyber Security Resilient Act
 - `src/` - Cartella contenente il codice sorgente del progetto
 - `src/tests/` - Cartella contenente i test per il progetto
 
@@ -95,8 +102,13 @@ progetto-aziendale/
                  ├── README.md  # studio di fattibilita
                  └── template_gantt.xlsx
          ├── github/    # cheatsheet di github
-         └── economy_finance/    # riassunti parte economico/finanziaria
-         └── project_management/    # documenti e riassunti sul project management
+         ├── economy_finance/    # riassunti parte economico/finanziaria
+         ├── project_management/    # riassunti parte project management
+         └── eu     # documentazione riguardante i trattati e le normative europee
+            ├── cookies/    # documentazione ed esempi per cookies e privacy policy
+            ├── gdpr/    # documenti riguardanti il GDPR
+            └── cra/    # documenti riguardanti il Cyber Security Resilient Act
+         
             
    ├── src/            # Codice sorgente
    ├── README.md       # Descrizione progetto (template dato)
@@ -196,7 +208,15 @@ Studiare ed approfondire il Project Management, documenti nella cartella docs/pr
 # 2. Feb - Chiudere le Issues Aperte
 Assicurarsi che tutte le issues aperte nel repository del progetto siano state risolte e chiuse. Verificare che ogni issue abbia una descrizione chiara del problema e della soluzione adottata. Le nuove funzionalità e la documentazione con le fasi di lavoro passate e del mese di Gennaio/Febbraio devono essere precise e aggiornate nel Gantt di progetto.
 
-# 3. Feb - Cookies e GDPR
+# 3. Feb - Cookies e Privacy Policy
 Approfondire le tematiche riguardanti i Cookies (ePrivacy Directive) e il GDPR (General Data Protection Regulation). Implementare la gestione dei Cookies all'interno della WebApp, assicurandosi di rispettare le normative vigenti in materia di privacy e protezione dei dati personali. Documentare l'implementazione e le considerazioni legali all'interno della cartella `docs/cookies_gdpr/` del repository del progetto.
 
+# 4. Mar - Cyber Security Resilient Act (CRA)
+Studiare il Cyber Security Resilient Act (CRA) e le sue implicazioni per lo sviluppo di software sicuro e resiliente. Implementare le best practices di sicurezza all'interno del progetto, assicurandosi di proteggere i dati degli utenti e di prevenire vulnerabilità comuni. Documentare le misure di sicurezza adottate e le considerazioni legali all'interno della cartella `docs/cra/` del repository del progetto.
 
+# 5. Apr - EU Treaties, GDPR Compliance, Privay Policy, CRA
+Partendo da una conoscenza generale della struttura Europea, porre particolare attenzione ai trattati e alle normative più recenti, in particolare al GDPR (General Data Protection Regulation) e al Cyber Security Resilient Act (CRA) `docs/eu/`
+
+Consigliata anche una lettura generale della storia dell'Unione Europea, dei suoi obiettivi e delle sue istituzioni, con un focus particolare sui trattati più recenti e sulle normative che riguardano il settore digitale, interessante anche il confronto con le normative di altri paesi come gli Stati Uniti `docs/us/` e la Cina `docs/cn/` per avere una visione più completa del panorama normativo che plasma il futuro di interi settori e attori multinazionali.
+
+Assicurarsi che il progetto sia conforme al GDPR (General Data Protection Regulation) e alle normative sulla protezione dei dati personali. Implementare le funzionalità necessarie per garantire la privacy degli utenti, come la gestione dei consensi, la possibilità di cancellare i dati personali e la protezione dei dati sensibili. Documentare le misure adottate per garantire la conformità al GDPR all'interno della cartella `docs/gdpr/` del repository del progetto.
