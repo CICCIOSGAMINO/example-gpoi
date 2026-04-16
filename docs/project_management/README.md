@@ -71,6 +71,12 @@ Nel caso di ricorso alla struttura a matrice, affinchè questa si mostri efficac
 5. Approccio orientato al problem solving, innovazione e al cambiamento, con accettazione di margini di rischio e incertezza maggiori rispetto a una gestione tradizionale.
 6. Ricerca autonoma di informazioni e disponibilità a condividere conoscenze e competenze tra i membri del team.
 
+# Methodologie di Progetto
+Leggere il file [Methodologie di Progetto](./methodologies.md) per approfondire le principali metodologie di gestione dei progetti, come il Project Management tradizionale, Agile, Scrum e Kanban.
+
+# Essential tools for digital PM
+Leggere il file [Essential tools for digital PM](./tools_pm.md) per scoprire gli strumenti essenziali per la gestione dei progetti digitali, come software di project management, strumenti di collaborazione e comunicazione, e tecnologie per il monitoraggio del progresso.
+
 ## Conclusioni
 L'efficienza e la specializzazione garantiti dalla struttura funzionale sono dei vantaggi ai quali non rinunciare quando i progetti sono semplici, poco innovativi, scomponibili in sottoprogetti autonomi da affidare alle singole funzioni.
 
