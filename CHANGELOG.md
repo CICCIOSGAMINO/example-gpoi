@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.9.0] - 18-04-2026
+
+### Add
+	- PM methodologies and tools, and the most recent EU treaties and regulations, in docs/project_management/ and docs/eu/ respectively
+	- Tasks about the most recent EU treaties and regulations, and about project management tools
+
+### Changed
+	- README.md Updated the README with the new tasks regarding the EU treaties and project management tools
+
 ## [1.8.0] - 14-04-2026
 
 ### Add

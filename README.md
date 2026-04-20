@@ -2,17 +2,17 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.8.0 - 31/03/26
+v1.9.0 - 18/04/26
 
 # 5_AINF
 
 Progetto qpe Fanti
-https://github.com/MANZINOO/qpe
-<br>Project Manager: Fanti  /  Resp. Documentazione
+MANZINOO/qpe
+<br>Project Manager: Fanti
 
 Progetto Milesi, Ing. Canali
 FILOMILE/cybermura-gpoi
-<br>Project Manager: Milesi  /  Resp. Documentazione Milesi
+<br>Project Manager: Milesi
 __________________________________________________________
 
 Progetto Scainelli, Cominelli
@@ -71,9 +71,10 @@ Progetto Birolini, Codoni, Simon
 __________________________________________________________
 
 # (UPDATED) - TO_READ
-31-03-2026 Aggiunta EU, CRA, GDPR, fix Cookie Policy section e projects in README.md
+31-03-2026  Aggiunta EU, CRA, GDPR, fix Cookie Policy section e projects in README.md
 19-01-2026  Aggiunta in README.md "Strutture Organizzative di Progetto" e docs/project_management
 10-11-2025  Aggiunta in docs/fattibilita/README.md "Attività Economica"
+18-04-2026  Aggiunta documenti EU, CRA, GDPR in docs/eu/ e aggiunta dei task di Aprile
 
 # Documenti / Files presenti nel Repository
 - `README.md` - Descrizione del progetto, pagina principale Github
@@ -84,6 +85,7 @@ __________________________________________________________
 - `docs/github/` - Cheatsheet e guide per l'utilizzo di Git e GitHub
 - `docs/economy_finance/` - Riassunti e documenti relativi alla parte economico/finanziaria del progetto
 - `docs/project_management/` - Documenti e riassunti sul Project Management
+- `docs/eu/` - Documentazione riguardante i trattati e le normative europee più recenti
 - `docs/eu/cookies/` - Documentazione riguardante la gestione dei Cookies e Privacy Policy
 - `docs/eu/gdpr/` - Documenti riguardanti il GDPR (General Data Protection Regulation)
 - `docs/eu/cra/` - Cartella contenente il materiale riguardante il Cyber Security Resilient Act
@@ -102,12 +104,12 @@ progetto-aziendale/
                  ├── README.md  # studio di fattibilita
                  └── template_gantt.xlsx
          ├── github/    # cheatsheet di github
-         ├── economy_finance/    # riassunti parte economico/finanziaria
-         ├── project_management/    # riassunti parte project management
-         └── eu     # documentazione riguardante i trattati e le normative europee
-            ├── cookies/    # documentazione ed esempi per cookies e privacy policy
-            ├── gdpr/    # documenti riguardanti il GDPR
-            └── cra/    # documenti riguardanti il Cyber Security Resilient Act
+         ├── economy_finance/    # docs parte economico/finanziaria
+         ├── project_management/    # docs riguardanti il project management
+         └── eu     # docs riguardante i trattati e le normative europee
+            ├── cookies/    # docs cookies e privacy policy
+            ├── gdpr/    # docs GDPR
+            └── cra/    # docs Cyber Security Resilient Act
          
             
    ├── src/            # Codice sorgente
@@ -220,3 +222,7 @@ Partendo da una conoscenza generale della struttura Europea, porre particolare a
 Consigliata anche una lettura generale della storia dell'Unione Europea, dei suoi obiettivi e delle sue istituzioni, con un focus particolare sui trattati più recenti e sulle normative che riguardano il settore digitale, interessante anche il confronto con le normative di altri paesi come gli Stati Uniti `docs/us/` e la Cina `docs/cn/` per avere una visione più completa del panorama normativo che plasma il futuro di interi settori e attori multinazionali.
 
 Assicurarsi che il progetto sia conforme al GDPR (General Data Protection Regulation) e alle normative sulla protezione dei dati personali. Implementare le funzionalità necessarie per garantire la privacy degli utenti, come la gestione dei consensi, la possibilità di cancellare i dati personali e la protezione dei dati sensibili. Documentare le misure adottate per garantire la conformità al GDPR all'interno della cartella `docs/gdpr/` del repository del progetto.
+
+(TASK) Preparare una presentazione (almeno 5 slides) che illustri in maniera più dettagliata uno dei trattati o normative europee più recenti. Riassumere i punti chiave, le implicazioni, descrivi alcuni scenari. 
+
+(TASK) Scegliere, provare l'utilizzo e preparare un breve presentazione di un tool di project management (es. Trello, Asana, Jira, Monday, Notion ...) e spiegare come questo tool sarà utilizzato per la gestione del progetto d'impresa in alcune sue fasi (eg. risoluzione di issue, gestione del team, gestione del tempo e delle risorse, gestione dei task ...)
