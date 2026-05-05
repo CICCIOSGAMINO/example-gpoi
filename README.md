@@ -2,7 +2,7 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.9.0 - 18/04/26
+v1.9.1 - 04/05/26
 
 # 5_AINF
 
@@ -16,7 +16,7 @@ FILOMILE/cybermura-gpoi
 __________________________________________________________
 
 Progetto Scainelli, Cominelli
-Scaia25/psyPlatform
+Scaia25/focusFlow
 <br>Project Manager: Scainelli  /  Resp. Documentazione Cominelli
 __________________________________________________________
 
@@ -216,7 +216,7 @@ Approfondire le tematiche riguardanti i Cookies (ePrivacy Directive) e il GDPR (
 # 4. Mar - Cyber Security Resilient Act (CRA)
 Studiare il Cyber Security Resilient Act (CRA) e le sue implicazioni per lo sviluppo di software sicuro e resiliente. Implementare le best practices di sicurezza all'interno del progetto, assicurandosi di proteggere i dati degli utenti e di prevenire vulnerabilità comuni. Documentare le misure di sicurezza adottate e le considerazioni legali all'interno della cartella `docs/cra/` del repository del progetto.
 
-# 5. Apr - EU Treaties, GDPR Compliance, Privay Policy, CRA
+# 5. Apr/May - EU Treaties, GDPR Compliance, Privay Policy, CRA
 Partendo da una conoscenza generale della struttura Europea, porre particolare attenzione ai trattati e alle normative più recenti, in particolare al GDPR (General Data Protection Regulation) e al Cyber Security Resilient Act (CRA) `docs/eu/`
 
 Consigliata anche una lettura generale della storia dell'Unione Europea, dei suoi obiettivi e delle sue istituzioni, con un focus particolare sui trattati più recenti e sulle normative che riguardano il settore digitale, interessante anche il confronto con le normative di altri paesi come gli Stati Uniti `docs/us/` e la Cina `docs/cn/` per avere una visione più completa del panorama normativo che plasma il futuro di interi settori e attori multinazionali.
@@ -225,4 +225,7 @@ Assicurarsi che il progetto sia conforme al GDPR (General Data Protection Regula
 
 (TASK) Preparare una presentazione (almeno 5 slides) che illustri in maniera più dettagliata uno dei trattati o normative europee più recenti. Riassumere i punti chiave, le implicazioni, descrivi alcuni scenari. 
 
-(TASK) Scegliere, provare l'utilizzo e preparare un breve presentazione di un tool di project management (es. Trello, Asana, Jira, Monday, Notion ...) e spiegare come questo tool sarà utilizzato per la gestione del progetto d'impresa in alcune sue fasi (eg. risoluzione di issue, gestione del team, gestione del tempo e delle risorse, gestione dei task ...)
+Topics sul portale della commissione europea:
+https://commission.europa.eu/topics_en  
+
+(TASK) Scegliere, provare l'utilizzo e preparare un breve presentazione di un tool di project management (es. Trello, Asana, Jira, Monday, Notion ...) e spiegare come questo tool sarà utilizzato per la gestione del progetto d'impresa in alcune sue fasi (eg. risoluzione di issue, gestione del team, gestione del tempo e delle risorse, gestione dei task ...) in ottica di project management.
