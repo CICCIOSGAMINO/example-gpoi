@@ -2,13 +2,15 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.9.1 - 04/05/26
+v1.9.2 - 06/05/26
 
 # 5_AINF
 
 Progetto qpe Fanti
-MANZINOO/qpe
+<br>MANZINOO/qpe
+<br>https://qpe-app.web.app
 <br>Project Manager: Fanti
+__________________________________________________________
 
 Progetto Milesi, Ing. Canali
 FILOMILE/cybermura-gpoi
@@ -20,9 +22,19 @@ Scaia25/focusFlow
 <br>Project Manager: Scainelli  /  Resp. Documentazione Cominelli
 __________________________________________________________
 
-Progetto Fanti, Marema, Franchina, Gusmini
+Progetto Gusmini
+<br>ILGUZZ/progetto_Gestione
+<br>Project Manager: Gusmini
+__________________________________________________________
+
+Progetto Marema
+<br>Github ??
+<br>Project Manager: Marema
+__________________________________________________________
+
+Progetto Franchina
 <br>TemakiFrank/Seescape
-<br>Project Manager: Fanti /  Resp. Documentazione Franchina
+<br>Project Manager: Franchina
 __________________________________________________________
 
 Progetto Bruno, Bugada
