@@ -6,6 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.9.3] - 23-05-2026
+
+### Add
+	- Project management links in README.md
+
+## [1.9.2] - 11-05-2026
+
+### Add
+	- Project management tools assigned to each project in README.md
+
+### Changed
+	- minor fix in docs
+
 ## [1.9.1] - 05-05-2026
 
 ### Changed

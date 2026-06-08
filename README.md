@@ -2,59 +2,80 @@ GPOI - Projects 25/26
 =====================
 [TOC]
 
-v1.9.2 - 06/05/26
-
+v2.0.0 - 06/06/2026
 # 5_AINF
 
 Progetto qpe Fanti
 <br>MANZINOO/qpe
 <br>https://qpe-app.web.app
 <br>Project Manager: Fanti
-__________________________________________________________
+<br>Firebase A/B Testing, Analytics
+ __________________________________________________________
 
 Progetto Milesi, Ing. Canali
 FILOMILE/cybermura-gpoi
 <br>Project Manager: Milesi
+<br>
 __________________________________________________________
 
 Progetto Scainelli, Cominelli
 Scaia25/focusFlow
+<br>https://www.ecogardenbosio.it/
 <br>Project Manager: Scainelli  /  Resp. Documentazione Cominelli
+<br>Jira
 __________________________________________________________
 
 Progetto Gusmini
 <br>ILGUZZ/progetto_Gestione
+<br>https://
 <br>Project Manager: Gusmini
+<br>
 __________________________________________________________
 
 Progetto Marema
-<br>Github ??
+<br>LaMare07/progetto_gestione
+<br>
 <br>Project Manager: Marema
+<br>
 __________________________________________________________
 
 Progetto Franchina
 <br>TemakiFrank/Seescape
+<br>temakifrank.github.io/Solvra-page
 <br>Project Manager: Franchina
+<br>clickup.com/
 __________________________________________________________
 
 Progetto Bruno, Bugada
 <br>Brunoskyyy/Progetto-tps
+<br>GiovanniBugada/bazzana-sito
+<br>https://bazzanamotorgarden.it/
+<br>
 <br>Project Manager: Bugada  /  Resp. Documentazione Bruno
+<br>Monday.com
 __________________________________________________________
 
 Progetto Zanibelli, Carrara, Kristof
 <br>zanz07/Progetto-gestione
+<br>https://eventara.duckdns.org
+<br>https://eventara.duckdns.org/login.php
 <br>Project Manager: Zanibelli  /  Resp. Documentazione Carrara
+<br>clickup.com/
 __________________________________________________________
 
 Progetto Cannatà, Verzeroli, Gentilcore
 <br>CannaNico/YourWeek
+<br>??
+<br>http://pezzolielettrica.it/
 <br>Project Manager: Cannatà  /  Resp. Documentazione Gentilcore
+<br>Monday.com
 _________________________________________________________
 
 Progetto Leoni, Bastioni, Ravasio
-<br>Rava-X/Progetto_Gestione
+<br>https://github.com/Rava-X/Gamecentre
+<br>https://gamecentre.uk/
 <br>Project Manager: Ravasio  /  Resp. Documentazione Bastioni
+<br>clickup.com/
 _________________________________________________________
 
 
@@ -62,23 +83,29 @@ _________________________________________________________
 
 Progetto Guerini
 <br>tommyguerini07/progetto-GPOI-5INFB-Guerini-Bertasa-Mutti-Zecchini
+<br>https://polisportivaalbinese.altervista.org/
 <br>Project Manager: Guerini  /  Resp. Documentazione Zecchini
 __________________________________________________________
 
 Progetto Ginny
 <br>ginnycuggi/progettoGPN
+<br>https://schemigpn.altervista.org/frontend/
 <br>Project Manager: Ginny  /  Resp. Documentazione Noemi
 __________________________________________________________
 
 
 Progetto Ferro, Marrocu, Cortinovis
 <br>ironn0/Map_to_Geojson-Converter
+<br>https://cider-esquire-tinkling.ngrok-free.dev
 <br>Project Manager: Ferro  /  Resp. Documentazione Cortinovis
+<br>Dashboard Trello
+https://trello.com/b/umRcJ9fW/map-to-geojson
 __________________________________________________________
 
 
 Progetto Birolini, Codoni, Simon
 <br>stamino24/GPOI-project
+<br>outclass.altervista.org
 <br>Project Manager: Stefano Birolini  /  Resp. Documentazione Aurora Birolini
 __________________________________________________________
 
